@@ -1,0 +1,18 @@
+html {
+    font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif; 
+}
+
+header {
+    background: url(/images/image.jpg) top left no-repeat,
+				linear-gradient(to bottom, rgb(65,134,199), rgb(78,167,249));
+    background-size: auto 100%;
+    background-color: rgb(74,160,243);
+    font-size: 2.5em;
+    font-weight: bold;
+    color: rgb(253,218,30);
+    text-align: right;
+    box-sizing: border-box;
+    height: 150px;
+    padding: 50px 50px 0 0;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
